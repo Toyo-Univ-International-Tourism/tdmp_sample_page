@@ -3,9 +3,9 @@
 東洋大学「観光デジタルメディア演習」で使用する Web サンプルページ集です。観光情報を Web 上で発信する基礎技術を実習形式で学ぶための教材として、GitHub Pages で公開しています。
 
 ## 公開 URL
-- Step 0 (HTML のみ): https://Toyo-Univ-International-Tourism.github.io/tdmp_sample_page/sample0/
-- Step 1 (HTML + CSS + JS): https://Toyo-Univ-International-Tourism.github.io/tdmp_sample_page/sample1/
-- VR サンプル (シーン1): https://Toyo-Univ-International-Tourism.github.io/tdmp_sample_page/aframe_sample/scene1.html
+- Step 0 (HTML のみ): https://toyo-univ-international-tourism.github.io/tdmp_sample_page/sample0/
+- Step 1 (HTML + CSS + JS): https://toyo-univ-international-tourism.github.io/tdmp_sample_page/sample1/
+- VR サンプル (シーン1): https://toyo-univ-international-tourism.github.io/tdmp_sample_page/aframe_sample/scene1.html
 
 ## 収録サンプル
 
