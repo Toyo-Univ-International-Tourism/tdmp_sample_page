@@ -3,13 +3,19 @@
 東洋大学「観光デジタルメディア演習」で使用する Web サンプルページ集です。観光情報を Web 上で発信する基礎技術を実習形式で学ぶための教材として、GitHub Pages で公開しています。
 
 ## 公開 URL
-- 基本サンプル: https://sugilab3.github.io/tdmp_sample_page/sample1/
+- Step 0 (HTML のみ): https://sugilab3.github.io/tdmp_sample_page/sample0/
+- Step 1 (HTML + CSS + JS): https://sugilab3.github.io/tdmp_sample_page/sample1/
 - VR サンプル (シーン1): https://sugilab3.github.io/tdmp_sample_page/aframe_sample/scene1.html
 
 ## 収録サンプル
 
-### `sample1/` — 基本 Web ページ
-観光地紹介ページの最小構成例。素の HTML / CSS / JavaScript のみで構成。
+### `sample0/` — HTML のみの最小構成
+素の HTML のみで構成した観光紹介ページの出発点。装飾もインタラクションもなし。`sample1/` と比較することで CSS / JS が果たす役割を学ぶ。
+
+- HTML5 (セマンティックマークアップ)
+
+### `sample1/` — HTML + CSS + JavaScript
+`sample0/` に CSS による装飾と Vanilla JavaScript による DOM 操作 (ボタン操作で情報表示) を加えた完成版。
 
 - HTML5 (セマンティックマークアップ)
 - CSS3 (レイアウト・装飾)
