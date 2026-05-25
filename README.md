@@ -1,6 +1,6 @@
 # tdmp_sample_page
 
-東洋大学「観光デジタルメディア演習」(Tourism Digital Media Practices) で使用する Web サンプルページ集です。観光情報を Web 上で発信する基礎技術を実習形式で学ぶための教材として、GitHub Pages で公開しています。
+東洋大学「観光デジタルメディア演習」で使用する Web サンプルページ集です。観光情報を Web 上で発信する基礎技術を実習形式で学ぶための教材として、GitHub Pages で公開しています。
 
 ## 公開 URL
 - 基本サンプル: https://sugilab3.github.io/tdmp_sample_page/sample1/
