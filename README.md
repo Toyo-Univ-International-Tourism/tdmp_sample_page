@@ -25,5 +25,8 @@
 ## 動作環境
 静的サイトのため追加インストール不要。Chrome / Safari / Firefox / Edge の最新版で動作確認済み。
 
-## ライセンス・利用
-教育目的のサンプル教材です。掲載画像の権利は撮影者に帰属します。
+## ライセンス・利用条件
+- ソースコード (HTML / CSS / JS): MIT License
+- 画像素材
+  - `sample1/itsukushima.jpg`: Photo by Nicki Eliza Schinow on [Unsplash](https://unsplash.com/) (Unsplash License)
+  - `aframe_sample/` 内の画像: 著者 (杉本興運) が東洋大学構内で撮影。教育・研究目的での参照は自由ですが、再配布・商用利用は事前にご連絡ください。
